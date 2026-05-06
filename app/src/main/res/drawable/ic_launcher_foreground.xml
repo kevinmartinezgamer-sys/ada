@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Estrella central dorada (símbolo del juego) -->
+    <path
+        android:fillColor="#f4c542"
+        android:pathData="M54,30 L60,46 L77,46 L63,57 L68,73 L54,63 L40,73 L45,57 L31,46 L48,46 Z"/>
+    
+    <!-- Texto MARY estilizado debajo -->
+    <path
+        android:fillColor="#ffaa30"
+        android:pathData="M40,80 L42,80 L44,86 L46,80 L48,80 L48,90 L46.5,90 L46.5,82.5 L44.5,88 L43.5,88 L41.5,82.5 L41.5,90 L40,90 Z"/>
+    <path
+        android:fillColor="#ffaa30"
+        android:pathData="M50,80 L54,80 L56,90 L54.5,90 L54,87.5 L50,87.5 L49.5,90 L48,90 Z M50.3,86 L53.7,86 L52,82 Z"/>
+    <path
+        android:fillColor="#ffaa30"
+        android:pathData="M58,80 L62,80 L63,82 L62.5,84 L61,85 L63.5,90 L62,90 L59.5,85 L59.5,90 L58,90 Z M59.5,81.5 L59.5,84 L61.5,84 L62,83 L61.5,82 L60,81.5 Z"/>
+    <path
+        android:fillColor="#ffaa30"
+        android:pathData="M64,80 L65.5,80 L67,84 L68.5,80 L70,80 L67.5,86 L67.5,90 L66.5,90 L66.5,86 Z"/>
+
+</vector>
